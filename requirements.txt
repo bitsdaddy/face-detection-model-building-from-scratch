@@ -33,7 +33,7 @@ idna==3.6
 imageio==2.34.0
 imgviz==1.7.5
 ipykernel==6.29.3
-ipython==
+ipython
 itsdangerous==2.1.2
 jedi==0.19.1
 Jinja2==3.1.3
